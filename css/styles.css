@@ -95,6 +95,9 @@ line-height: 2;
   line-height: 2;
   font-size: 150%;
 }
+a:hover{
+  color: #EAF6F6;
+}
 .contact-me{
   line-height: 2;
 }
